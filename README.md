@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/EmilyFrade/Loruki_Website/new/master?readme=1#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/EmilyFrade/Loruki_Website/new/master?readme=1#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/EmilyFrade/Loruki_Website/new/master?readme=1#features">Features</a>
+    <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#features">Features</a>
 </p>
 
 ## Project
